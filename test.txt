@@ -1,0 +1,13 @@
+ Volume in drive C is software
+ Volume Serial Number is AA67-378F
+
+ Directory of C:\Users\KARTHI\Desktop\PrgJava
+
+02/02/2018  05:56 PM    <DIR>          .
+02/02/2018  05:56 PM    <DIR>          ..
+02/02/2018  01:59 PM               457 HelloWorld2.class
+02/02/2018  01:42 PM               153 Helloworld2.java
+02/02/2018  05:52 PM               469 readme.txt
+02/02/2018  05:56 PM                 0 test.txt
+               4 File(s)          1,079 bytes
+               2 Dir(s)  20,057,309,184 bytes free
