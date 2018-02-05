@@ -8,6 +8,6 @@
 02/02/2018  01:59 PM               457 HelloWorld2.class
 02/02/2018  01:42 PM               153 Helloworld2.java
 02/02/2018  05:52 PM               469 readme.txt
-02/02/2018  05:56 PM                 0 test.txt
+02/05/2018  03:14 PM                 0 test.txt
                4 File(s)          1,079 bytes
-               2 Dir(s)  20,057,309,184 bytes free
+               2 Dir(s)  20,397,621,248 bytes free
